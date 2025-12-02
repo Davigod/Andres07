@@ -1,12 +1,8 @@
-# Andres07
-I am a programmer apprentice.
-# 🎓 Institución Universitaria Pascual Bravo
+# # 🎓 Institución Universitaria Pascual Bravo
 
 <div align="center">
   
   ![Banner Pascual Bravo](https://via.placeholder.com/1200x300/003366/ffffff?text=Institucion+Universitaria+Pascual+Bravo)
-  
-  ### 💡 Innovación Tecnológica | 🔬 Formación Técnica | 🌟 Excelencia Académica
   
   [![Website](https://img.shields.io/badge/Website-Pascual_Bravo-003366?style=for-the-badge&logo=google-chrome)](https://www.pascualbravo.edu.co)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Síguenos-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/school/institucion-universitaria-pascual-bravo)
@@ -56,50 +52,74 @@ La **Institución Universitaria Pascual Bravo** es una institución pública de 
 
 ---
 
-## 📚 Proyectos Destacados
+## 👨‍💻 Habilidades Técnicas de Andrés David
 
-### 🌟 Proyectos Estudiantiles
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-- 🔹 **[Sistema de Gestión Académica](https://github.com/tu-universidad/sistema-academico)** - Plataforma completa para administración universitaria
-- 🔹 **[App Móvil Campus](https://github.com/tu-universidad/app-campus)** - Aplicación móvil para estudiantes y profesores
-- 🔹 **[Biblioteca Digital](https://github.com/tu-universidad/biblioteca-digital)** - Repositorio de recursos académicos
-- 🔹 **[Plataforma E-Learning](https://github.com/tu-universidad/plataforma-elearning)** - Sistema de aprendizaje en línea
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🔬 Investigación y Desarrollo
+### 🗄️ Base de Datos
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔸 **[IA para Diagnóstico Médico](https://github.com/tu-universidad/ia-diagnostico)** - Modelos de ML para análisis médico
-- 🔸 **[IoT Smart Campus](https://github.com/tu-universidad/iot-campus)** - Soluciones IoT para campus inteligente
-- 🔸 **[Análisis de Datos Educativos](https://github.com/tu-universidad/analytics-educacion)** - Análisis predictivo del rendimiento estudiantil
+### 🛠️ Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 💻 Tecnologías que Usamos
+## 👨‍💻 Habilidades Técnicas de Andrés David
+
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗄️ Base de Datos
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💻 Stack Tecnológico Institucional
 
 <div align="center">
 
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### Frameworks y Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Base de Datos
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Herramientas y DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -109,9 +129,9 @@ La **Institución Universitaria Pascual Bravo** es una institución pública de 
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-universidad&show_icons=true&theme=tokyonight&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascualbravo&show_icons=true&theme=tokyonight&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-universidad&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pascualbravo&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -160,12 +180,11 @@ La **Institución Universitaria Pascual Bravo** es una institución pública de 
 
 | Plataforma | Enlace | Descripción |
 |:----------:|:------:|:-----------:|
-| 🌐 Website | [tuuniversidad.edu](https://tuuniversidad.edu) | Sitio oficial |
-| 💼 LinkedIn | [@tu-universidad](https://linkedin.com/company/tu-universidad) | Red profesional |
-| 🐦 Twitter | [@tu_universidad](https://twitter.com/tu_universidad) | Actualizaciones |
-| 📘 Facebook | [Tu Universidad](https://facebook.com/tuuniversidad) | Comunidad |
-| 📷 Instagram | [@tu_universidad](https://instagram.com/tu_universidad) | Vida universitaria |
-| 💬 Discord | [Servidor Estudiantil](https://discord.gg/tu-universidad) | Chat comunitario |
+| 🌐 Website | [pascualbravo.edu.co](https://www.pascualbravo.edu.co) | Sitio oficial |
+| 💼 LinkedIn | [Pascual Bravo](https://linkedin.com/school/institucion-universitaria-pascual-bravo) | Red profesional |
+| 📘 Facebook | [PascualBravoOficial](https://facebook.com/PascualBravoOficial) | Comunidad |
+| 📷 Instagram | [@pascualbravoficial](https://instagram.com/pascualbravoficial) | Vida universitaria |
+| 🎥 YouTube | [Pascual Bravo](https://www.youtube.com/@pascualbravooficial) | Videos institucionales |
 
 </div>
 
@@ -175,10 +194,11 @@ La **Institución Universitaria Pascual Bravo** es una institución pública de 
 
 ¿Tienes preguntas o quieres colaborar con nosotros?
 
-- 📮 **Email Institucional**: contacto@tuuniversidad.edu
-- 📱 **Teléfono**: +57 (123) 456-7890
-- 📍 **Dirección**: Calle Principal #123, Ciudad, País
-- 💻 **Soporte Técnico**: soporte@tuuniversidad.edu
+- 📮 **Email Institucional**: info@pascualbravo.edu.co
+- 📱 **Teléfono**: +57 (604) 448 00 66
+- 📍 **Sede Centro**: Calle 73 No. 73A-226, Medellín, Antioquia
+- 📍 **Sede Castilla**: Calle 106 No. 78 - 50, Medellín, Antioquia
+- 💻 **Admisiones**: admisiones@pascualbravo.edu.co
 
 ---
 
@@ -192,10 +212,12 @@ La mayoría de nuestros proyectos educativos están bajo licencia MIT. Consulta 
 
 ### 🌟 ¡Síguenos y forma parte de nuestra comunidad académica! 🌟
 
-**Hecho con ❤️ por la comunidad de [Tu Universidad]**
+**Hecho con ❤️ por la comunidad de la Institución Universitaria Pascual Bravo**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tu-universidad.tu-universidad)
-![GitHub followers](https://img.shields.io/github/followers/tu-universidad?style=social)
-![GitHub stars](https://img.shields.io/github/stars/tu-universidad?style=social)
+**Mantenido por**: Andrés David Mosquera Galvis
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pascualbravo.pascualbravo)
+![GitHub followers](https://img.shields.io/github/followers/pascualbravo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/pascualbravo?style=social)
 
 </div>
