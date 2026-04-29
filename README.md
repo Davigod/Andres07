@@ -1,6 +1,6 @@
 # 👋 Hola, soy Andrés David Mosquera Galvis
 
-**Software Engineer in progress** | Networking & Telecom | Hacking ético | Open to collaborate
+**Software Engineer in progress** | Networking & Telecom | Hacking ético | Open to collaborate | Colombia 🇨🇴
 
 Estudiante de Ingeniería en Software apasionado por el desarrollo, las redes y la seguridad informática.
 Me interesa construir herramientas útiles, automatizar procesos y entender cómo funciona internet por dentro.
@@ -32,7 +32,6 @@ Me interesa construir herramientas útiles, automatizar procesos y entender cóm
   <img src="https://github-readme-stats.vercel.app/api?username=Davigod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davigod&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davigod&theme=tokyonight&hide_border=true&locale=es" width="98%" />
 </p>
@@ -52,6 +51,48 @@ Me interesa construir herramientas útiles, automatizar procesos y entender cóm
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davigod&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
+
+---
+
+## 🦉 Soy una persona nocturna
+
+```
+🌞 Mañana      ██░░░░░░░░░░░░░░░░░░░░░░░   07%
+🌆 Tarde       █████░░░░░░░░░░░░░░░░░░░░   18%
+🌃 Noche       ██████████████░░░░░░░░░░░   57%
+🌙 Madrugada   ████░░░░░░░░░░░░░░░░░░░░░   18%
+```
+
+📅 **Día más productivo: Sábado**
+
+```
+Lunes      ████░░░░░░░░░░░░░░░░░░░░░   16%
+Martes     ████░░░░░░░░░░░░░░░░░░░░░   15%
+Miércoles  █████░░░░░░░░░░░░░░░░░░░░   17%
+Jueves     ███░░░░░░░░░░░░░░░░░░░░░░   13%
+Viernes    ██░░░░░░░░░░░░░░░░░░░░░░░   08%
+Sábado ⭐  █████░░░░░░░░░░░░░░░░░░░░   20%
+Domingo    ███░░░░░░░░░░░░░░░░░░░░░░   11%
+```
+
+---
+
+## 🎵 Top canciones en Spotify
+
+<!-- Necesitas conectar tu cuenta de Spotify via API para activar esta sección -->
+<!-- Guía: https://github.com/natemoo-re/natemoo-re/blob/master/spotify-setup-guide.md -->
+
+| 🎵 Now Playing |
+|---|
+| *Conecta tu Spotify API para ver qué estás escuchando* |
+
+| 📈 Top Tracks |
+|---|
+| 1. Tu canción #1 |
+| 2. Tu canción #2 |
+| 3. Tu canción #3 |
+| 4. Tu canción #4 |
+| 5. Tu canción #5 |
 
 ---
 
