@@ -77,22 +77,7 @@ Domingo    ███░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Top canciones en Spotify
 
-<!-- Necesitas conectar tu cuenta de Spotify via API para activar esta sección -->
-<!-- Guía: https://github.com/natemoo-re/natemoo-re/blob/master/spotify-setup-guide.md -->
-
-| 🎵 Now Playing |
-|---|
-| *Conecta tu Spotify API para ver qué estás escuchando* |
-
-| 📈 Top Tracks |
-|---|
-| 1. Tu canción #1 |
-| 2. Tu canción #2 |
-| 3. Tu canción #3 |
-| 4. Tu canción #4 |
-| 5. Tu canción #5 |
 
 ---
 
